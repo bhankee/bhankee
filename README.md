@@ -13,7 +13,7 @@ Based in San Antonio, TX • Passionate about building high-quality, scalable we
 ---
 
 ##  Writing & Community
-- I write and share knowledge regularly on **DEV.to**, with posts covering JavaScript, TypeScript, GraphQL, and GatsbyJS.  
+- I have blogs such as on **DEV.to**, with posts covering JavaScript, TypeScript, GraphQL, and GatsbyJS.  
 - Member and contributor at *Vets Who Code*.  
 - Experienced mentor and coach for developers starting their careers.  
 
