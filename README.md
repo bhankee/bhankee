@@ -2,7 +2,6 @@
 
 **Senior Software Engineer • Full-Stack Developer • 7+ Years of Production Experience**  
 Based in San Antonio, TX • Passionate about building high-quality, scalable web applications.  
-Visit my website: [bhankee.com](https://www.bhankee.com)
 
 ---
 
@@ -10,17 +9,6 @@ Visit my website: [bhankee.com](https://www.bhankee.com)
 - I’ve been writing **production code for over 7 years**, specializing in performant and scalable web applications.  
 - Strong experience across **front-end and back-end** technologies including React, Next.js, Node.js, Rails, and MongoDB.  
 - Passionate about **open source, web performance, and mentoring developers** who are growing in their careers.  
-
----
-
-##  Pinned Projects
-| Project | Description |
-|--------|-------------|
-| **Meteor-React-Home-App** | A web app featuring a MongoDB backend using Meteor and React |
-| **flix** | A movie app built with Ruby on Rails |
-| **Leftover-Food-App** | A React.js app focused on formatting leftover food recipes |
-| **React-To-Do-App** | A basic React.js to-do application—a learning project |
-| **JavaScript30Days** | Collection of 30 mini-projects over 30 days, using HTML/JS for hands-on learning |
 
 ---
 
@@ -75,7 +63,7 @@ Visit my website: [bhankee.com](https://www.bhankee.com)
 ---
 
 ##  Let's Connect
-- 🌐 [My Site](https://www.bhankee.com)  
+- LinkedIn: [Bhankee](https://www.linkedin.com/in/brad-hankee/)
 - 💬 DEV Community: [@bhankee](https://dev.to/bhankee)  
 - ✍️ Blog: [DEV.to](https://dev.to/bhankee) | [Medium](https://medium.com/@brad.hankee)  
 - 🤝 Contributor to [Vets Who Code Prework](https://github.com/Vets-Who-Code/Prework)  
@@ -83,5 +71,4 @@ Visit my website: [bhankee.com](https://www.bhankee.com)
 
 ---
 
-> *Learning tomorrow’s tech while listening to yesterday’s (90’s) music = Best of Both Worlds*
 
