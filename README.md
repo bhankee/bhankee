@@ -67,7 +67,6 @@ Based in San Antonio, TX • Passionate about building high-quality, scalable we
 - 💬 DEV Community: [@bhankee](https://dev.to/bhankee)  
 - ✍️ Blog: [DEV.to](https://dev.to/bhankee) | [Medium](https://medium.com/@brad.hankee)  
 - 🤝 Contributor to [Vets Who Code Prework](https://github.com/Vets-Who-Code/Prework)  
-- [Add links to LinkedIn, Twitter, or portfolio as needed]
 
 ---
 
