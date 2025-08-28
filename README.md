@@ -6,8 +6,8 @@ Based in San Antonio, TX • Passionate about building high-quality, scalable we
 ---
 
 ##  About Me
-- I’ve been writing **production code for over 7 years**, specializing in performant and scalable web applications.  
-- Strong experience across **front-end and back-end** technologies including React, Next.js, Node.js, Rails, and MongoDB.  
+- I’ve been writing **production code for over 7 years**, specializing in performant and scalable web applications in both JavaScript and Python.  
+- Strong experience across **front-end and back-end** technologies including React, Next.js, Node.js and MongoDB.  
 - Passionate about **open source, web performance, and mentoring developers** who are growing in their careers.  
 
 ---
