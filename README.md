@@ -11,10 +11,10 @@
 </p>
 
 <div> 
-  <h3>What I've Done</h3>
+  <h2>What I've Done</h2>
 
   <div style="display: flex;  align-items: center; gap: 10px; flex-wrap: nowrap;">
-    <h5 style="margin: 0;">7+ Years Production Code:</h5>
+    <h5 style="margin: 0;">Production Code - 7+ years</h5>
     <div style="display: inline-flex; gap: 5px;">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -23,38 +23,34 @@
     </div>    
   </div>
    <div style="display: flex; margin-top: 10px; align-items: center; gap: 10px; flex-wrap: nowrap;">
-    <h5 style="margin: 0;">Bootcamp Instruction:</h5>
+    <h5 style="margin: 0;">Bootcamp Instruction -  2 years</h5>
     <div style="display: inline-flex; gap: 5px;">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>    
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>    
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>      
     </div>    
   </div>
+     <div style="display: flex;  align-items: center; gap: 10px; flex-wrap: nowrap;">
+    <h5 style="margin: 0;">Member and contributor at   <a href="https://github.com/Vets-Who-Code" target="_blank">Vets Who Code</a> - 7+ years</h5>
+    <div style="display: inline-flex; gap: 5px;">
+     <img src="https://avatars1.githubusercontent.com/u/18350560?s=200&v=4" alt="VWC Logo" width="75" />    
+    </div>    
+  </div>
 </div>
 
 
 
-<h1>What I'm Doing</h1>
-<h5>Using JavaScript daily and building projects and products using Python, AI/LLMs and SQL databases. </h5>
 
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40" style="margin-right:10px;"/>
- 
-</p>
-
-<h1>Where I Am Going</h1>
-<h5>All of the above but more focus learning given to fundamentals of AI engineering.</h5>
-
-
+<div>
+<h2>What I'm Doing</h2>
+<p>Staying on top pf everything JS to ensure best practices while building and diving deep into AI engineering through building products using Python, SQL and Cloud services.</p>
+  <a href="https://github.com/bhankee/health-ai" target="_blank">
+        Look how I am hitting my fitness goals using real time health metrics and Gemimi LLM
+        <img src="images/health-ai-1.png" alt="My Image" width="200"/>
+  </a>
+</div>
 
 ---
-
 
 ##  Writing & Community
 - I have blogs such as on **DEV.to**, with posts covering JavaScript, TypeScript, GraphQL, and GatsbyJS.  
