@@ -46,6 +46,7 @@
 <p>Staying on top pf everything JS to ensure best practices while building and diving deep into AI engineering through building products using Python, SQL and Cloud services.</p>
   <a href="https://github.com/bhankee/health-ai" target="_blank">
         Look how I am hitting my fitness goals using real time health metrics and Gemimi LLM
+          <br />
         <img src="images/health-ai-1.png" alt="My Image" width="200"/>
   </a>
 </div>
