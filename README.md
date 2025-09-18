@@ -10,25 +10,51 @@
   <a href="https://www.linkedin.com/in/brad-hankee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-## What I Did
-- 7+ Years Production Code Experience w/ JavaScript, NextJS, React, APIs
+<div> 
+  <h3>What I've Done</h3>
+
+  <div style="display: flex;  align-items: center; gap: 10px; flex-wrap: nowrap;">
+    <h5 style="margin: 0;">7+ Years Production Code:</h5>
+    <div style="display: inline-flex; gap: 5px;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>    
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>      
+    </div>    
+  </div>
+   <div style="display: flex; margin-top: 10px; align-items: center; gap: 10px; flex-wrap: nowrap;">
+    <h5 style="margin: 0;">Bootcamp Instruction:</h5>
+    <div style="display: inline-flex; gap: 5px;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>    
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>    
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>      
+    </div>    
+  </div>
+</div>
+
+
+
+<h1>What I'm Doing</h1>
+<h5>Using JavaScript daily and building projects and products using Python, AI/LLMs and SQL databases. </h5>
+
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40" style="margin-right:10px;"/>
+ 
+</p>
+
+<h1>Where I Am Going</h1>
+<h5>All of the above but more focus learning given to fundamentals of AI engineering.</h5>
+
 
 
 ---
-## What I'm Doing
-- 7+ Years Production Code Experience w/ JavaScript, NextJS, React, APIs
-- 
-- Strong experience across **front-end and back-end** technologies including React, Next.js, Node.js and MongoDB.  
-- Passionate about **open source, web performance, and mentoring developers** who are growing in their careers.  
 
----
-## Where I Am Going
-- 7+ Years Production Code Experience w/ JavaScript, NextJS, React, APIs
-- 
-- Strong experience across **front-end and back-end** technologies including React, Next.js, Node.js and MongoDB.  
-- Passionate about **open source, web performance, and mentoring developers** who are growing in their careers.  
-
----
 
 ##  Writing & Community
 - I have blogs such as on **DEV.to**, with posts covering JavaScript, TypeScript, GraphQL, and GatsbyJS.  
