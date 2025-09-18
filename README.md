@@ -1,12 +1,30 @@
-# Hi there 👋, I’m Brad Hankee (bhankee)
+<div align="center"> 
+<h1>Hi there, I’m Brad Hankee 👋 </h1>
+<h5>Senior Software Engineer • Veteran </h5>
+</div>
 
-**Senior Software Engineer • Full-Stack Developer • 7+ Years of Production Experience**  
-Based in San Antonio, TX • Passionate about building high-quality, scalable web applications.  
+
+ 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brad-hankee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+## What I Did
+- 7+ Years Production Code Experience w/ JavaScript, NextJS, React, APIs
+
 
 ---
+## What I'm Doing
+- 7+ Years Production Code Experience w/ JavaScript, NextJS, React, APIs
+- 
+- Strong experience across **front-end and back-end** technologies including React, Next.js, Node.js and MongoDB.  
+- Passionate about **open source, web performance, and mentoring developers** who are growing in their careers.  
 
-##  About Me
-- I’ve been writing **production code for over 7 years**, specializing in performant and scalable web applications in both JavaScript and Python.  
+---
+## Where I Am Going
+- 7+ Years Production Code Experience w/ JavaScript, NextJS, React, APIs
+- 
 - Strong experience across **front-end and back-end** technologies including React, Next.js, Node.js and MongoDB.  
 - Passionate about **open source, web performance, and mentoring developers** who are growing in their careers.  
 
@@ -66,5 +84,8 @@ Based in San Antonio, TX • Passionate about building high-quality, scalable we
 - 🤝 Contributor to [Vets Who Code Prework](https://github.com/Vets-Who-Code/Prework)  
 
 ---
+
+
+
 
 
