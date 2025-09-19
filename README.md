@@ -53,17 +53,20 @@
 
 ---
 
+## ✍️ Recent Blog Posts
+-  [AI is now my Health Coach ... and it's working 🏋️](https://dev.to/bhankee/ai-is-now-my-health-coach-and-its-working-1jil) 
+
+- You can also find more at [DEV.to](https://dev.to/bhankee) and [Medium](https://medium.com/@brad.hankee)  
+
+---
+
 ## 🎙️ Podcast & Media
 - Featured on the *Code Before Dishonor Podcast* by Vets Who Code:  
   [This Week on the Code Before Dishonor Podcast: Brad Hankee](https://medium.com/vets-who-code/this-week-on-the-code-before-dishonor-podcast-we-speak-to-brad-hankee-our-own-foodie-veteran-5ce47547b826)  
 
 ---
 
-## ✍️ Blog
-- ✨ Check out my latest posts on [DEV.to](https://dev.to/bhankee)  
-- You can also find earlier writing on [Medium](https://medium.com/@brad.hankee)  
 
----
 
 ##  Let's Connect
 - LinkedIn: [Bhankee](https://www.linkedin.com/in/brad-hankee/)
