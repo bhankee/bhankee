@@ -1,6 +1,5 @@
 <div align="center"> 
-<h1>Hi there, I’m Brad Hankee 👋 </h1>
-<h5>Senior Software Engineer • Veteran </h5>
+<img src="images/profile_banner.png" alt="Brad Hankee - Senior Software Engineer • Veteran" width="100%"/>
 </div>
 
 
@@ -39,8 +38,14 @@
 </div>
 
 
+## ✍️ Recent Blog Posts
+-  [Function Calling in LangChain: Turning Chatbots into Enterprise Copilots](https://dev.to/bhankee/ai-is-now-my-health-coach-and-its-working-1jil) 
+-  [Don’t Chain Yourself Down — Graph It Out! 🔗 (LangGraph, Memory, and the Future of AI Workflows)](https://dev.to/bhankee/function-calling-in-langchain-turning-chatbots-into-enterprise-copilots-16io) 
+-  [AI is now my Health Coach ... and it's working 🏋️](https://dev.to/bhankee/ai-is-now-my-health-coach-and-its-working-1jil) 
 
+- You can also find more at [DEV.to](https://dev.to/bhankee) and [Medium](https://medium.com/@brad.hankee)  
 
+---
 <div>
 <h2>What I'm Doing</h2>
 <p>Staying on top pf everything JS to ensure best practices while building and diving deep into AI engineering through building products using Python, SQL and Cloud services.</p>
@@ -50,13 +55,6 @@
         <img src="images/health-ai-1.png" alt="My Image" width="200"/>
   </a>
 </div>
-
----
-
-## ✍️ Recent Blog Posts
--  [AI is now my Health Coach ... and it's working 🏋️](https://dev.to/bhankee/ai-is-now-my-health-coach-and-its-working-1jil) 
-
-- You can also find more at [DEV.to](https://dev.to/bhankee) and [Medium](https://medium.com/@brad.hankee)  
 
 ---
 
