@@ -36,21 +36,21 @@
 
 ##
 
-- [Function Calling in LangChain: Turning Chatbots into Enterprise Copilots](https://dev.to/bhankee/ai-is-now-my-health-coach-and-its-working-1jil)
-- [Don’t Chain Yourself Down — Graph It Out! 🔗 (LangGraph, Memory, and the Future of AI Workflows)](https://dev.to/bhankee/function-calling-in-langchain-turning-chatbots-into-enterprise-copilots-16io)
+- [Function Calling in LangChain: Turning Chatbots into Enterprise Copilots](https://dev.to/bhankee/function-calling-in-langchain-turning-chatbots-into-enterprise-copilots-16io)
+- [Don't Chain Yourself Down — Graph It Out! 🔗 (LangGraph, Memory, and the Future of AI Workflows)](https://dev.to/bhankee/dont-chain-yourself-down-graph-it-out-langgraph-memory-and-the-future-of-ai-workflows-53gn)
 - [AI is now my Health Coach ... and it's working 🏋️](https://dev.to/bhankee/ai-is-now-my-health-coach-and-its-working-1jil)
 
 ## ✍️ Developer and Owner
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
-    <a href="https://github.com/bhankee/health-ai" target="_blank">
+    <a href="https://github.com/bhankee/roast-my-portfolio">
       <h3>AI Roast My Portfolio</h3>
       <img src="images/roast-my-portfolio.png" alt="AI Roast My Portfolio" width="100%" style="max-height: 400px; object-fit: cover;"/>
     </a>
   </div>
   <div style="flex: 1; min-width: 250px;">
-    <a href="https://github.com/bhankee/health-ai" target="_blank">
+    <a href="https://github.com/bhankee/health-ai">
       <h3>AI Health Coach</h3>
       <img src="images/health-ai-1.png" alt="AI Health Coach" width="100%" style="max-height: 250px;"/>
     </a>
