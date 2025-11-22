@@ -44,13 +44,13 @@
 
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
-    <a href="https://github.com/bhankee/roast-my-portfolio">
+    <a href="https://github.com/bhankee/roast-my-portfolio" target="_blank">
       <h3>AI Roast My Portfolio</h3>
       <img src="images/roast-my-portfolio.png" alt="AI Roast My Portfolio" width="100%" style="max-height: 400px; object-fit: cover;"/>
     </a>
   </div>
   <div style="flex: 1; min-width: 250px;">
-    <a href="https://github.com/bhankee/health-ai">
+    <a href="https://github.com/bhankee/health-ai" target="_blank">
       <h3>AI Health Coach</h3>
       <img src="images/health-ai-1.png" alt="AI Health Coach" width="100%" style="max-height: 250px;"/>
     </a>
