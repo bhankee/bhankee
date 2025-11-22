@@ -2,7 +2,7 @@
 <img src="images/profile_banner.png" alt="Brad Hankee - Senior Software Engineer • Veteran" width="100%"/>
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/brad-hankee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
