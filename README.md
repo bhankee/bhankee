@@ -2,9 +2,6 @@
 <img src="images/profile_banner.png" alt="Brad Hankee - Senior Software Engineer • Veteran" width="100%"/>
 </div>
 
-
- 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/brad-hankee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -37,44 +34,43 @@
   </div>
 </div>
 
+##
 
-## ✍️ Recent Blog Posts
--  [Function Calling in LangChain: Turning Chatbots into Enterprise Copilots](https://dev.to/bhankee/ai-is-now-my-health-coach-and-its-working-1jil) 
--  [Don’t Chain Yourself Down — Graph It Out! 🔗 (LangGraph, Memory, and the Future of AI Workflows)](https://dev.to/bhankee/function-calling-in-langchain-turning-chatbots-into-enterprise-copilots-16io) 
--  [AI is now my Health Coach ... and it's working 🏋️](https://dev.to/bhankee/ai-is-now-my-health-coach-and-its-working-1jil) 
+- [Function Calling in LangChain: Turning Chatbots into Enterprise Copilots](https://dev.to/bhankee/ai-is-now-my-health-coach-and-its-working-1jil)
+- [Don’t Chain Yourself Down — Graph It Out! 🔗 (LangGraph, Memory, and the Future of AI Workflows)](https://dev.to/bhankee/function-calling-in-langchain-turning-chatbots-into-enterprise-copilots-16io)
+- [AI is now my Health Coach ... and it's working 🏋️](https://dev.to/bhankee/ai-is-now-my-health-coach-and-its-working-1jil)
 
-- You can also find more at [DEV.to](https://dev.to/bhankee) and [Medium](https://medium.com/@brad.hankee)  
+## ✍️ Developer and Owner
 
----
-<div>
-<h2>What I'm Doing</h2>
-<p>Staying on top pf everything JS to ensure best practices while building and diving deep into AI engineering through building products using Python, SQL and Cloud services.</p>
-  <a href="https://github.com/bhankee/health-ai" target="_blank">
-        Look how I am hitting my fitness goals using real time health metrics and Gemimi LLM
-          <br /><br />
-        <img src="images/health-ai-1.png" alt="My Image" width="200"/>
-  </a>
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <a href="https://github.com/bhankee/health-ai" target="_blank">
+      <h3>AI Roast My Portfolio</h3>
+      <img src="images/roast-my-portfolio.png" alt="AI Roast My Portfolio" width="100%" style="max-height: 400px; object-fit: cover;"/>
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <a href="https://github.com/bhankee/health-ai" target="_blank">
+      <h3>AI Health Coach</h3>
+      <img src="images/health-ai-1.png" alt="AI Health Coach" width="100%" style="max-height: 250px;"/>
+    </a>
+  </div>
 </div>
 
 ---
 
 ## 🎙️ Podcast & Media
-- Featured on the *Code Before Dishonor Podcast* by Vets Who Code:  
-  [This Week on the Code Before Dishonor Podcast: Brad Hankee](https://medium.com/vets-who-code/this-week-on-the-code-before-dishonor-podcast-we-speak-to-brad-hankee-our-own-foodie-veteran-5ce47547b826)  
+
+- Featured on the _Code Before Dishonor Podcast_ by Vets Who Code:  
+  [This Week on the Code Before Dishonor Podcast: Brad Hankee](https://medium.com/vets-who-code/this-week-on-the-code-before-dishonor-podcast-we-speak-to-brad-hankee-our-own-foodie-veteran-5ce47547b826)
 
 ---
 
+## Let's Connect
 
-
-##  Let's Connect
 - LinkedIn: [Bhankee](https://www.linkedin.com/in/brad-hankee/)
-- 💬 DEV Community: [@bhankee](https://dev.to/bhankee)  
-- ✍️ Blog: [DEV.to](https://dev.to/bhankee) | [Medium](https://medium.com/@brad.hankee)  
-- 🤝 Contributor to [Vets Who Code Prework](https://github.com/Vets-Who-Code/Prework)  
+- 💬 DEV Community: [@bhankee](https://dev.to/bhankee)
+- ✍️ Blog: [DEV.to](https://dev.to/bhankee) | [Medium](https://medium.com/@brad.hankee)
+- 🤝 Contributor to [Vets Who Code Prework](https://github.com/Vets-Who-Code/Prework)
 
 ---
-
-
-
-
-
