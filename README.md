@@ -7,7 +7,7 @@
 </p>
 
 <div> 
-  <h2>What I've Done</h2>
+  <h2>What I've Done... So far</h2>
 
   <div style="display: flex;  align-items: center; gap: 10px; flex-wrap: nowrap;">
     <h4 style="margin: 0;">Production Code - 7+ years</h4>
@@ -34,17 +34,19 @@
   </div>
 </div>
 
-##
+## ✍️ Latest Blog Posts
+
+- [How I Built an AI That Can Make Developers Cry (And Learn)](https://dev.to/bhankee/how-i-built-an-ai-that-can-make-developers-cry-and-learn-3jl8)
 
 - [Function Calling in LangChain: Turning Chatbots into Enterprise Copilots](https://dev.to/bhankee/function-calling-in-langchain-turning-chatbots-into-enterprise-copilots-16io)
 - [Don't Chain Yourself Down — Graph It Out! 🔗 (LangGraph, Memory, and the Future of AI Workflows)](https://dev.to/bhankee/dont-chain-yourself-down-graph-it-out-langgraph-memory-and-the-future-of-ai-workflows-53gn)
 - [AI is now my Health Coach ... and it's working 🏋️](https://dev.to/bhankee/ai-is-now-my-health-coach-and-its-working-1jil)
 
-## ✍️ Developer and Owner
+## 💻 Developer and Owner
 
-### [AI Roast My Portfolio](https://github.com/bhankee/roast-my-portfolio)
+### [AI Roast My Portfolio](https://roast-my-portfolio-ten.vercel.app/)
 
-[![AI Roast My Portfolio](images/roast-my-portfolio.png)](https://github.com/bhankee/roast-my-portfolio)
+[![AI Roast My Portfolio](images/roast-my-portfolio.png)](https://roast-my-portfolio-ten.vercel.app/)
 
 ### [AI Health Coach](https://github.com/bhankee/health-ai)
 
@@ -59,11 +61,9 @@
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 - LinkedIn: [Bhankee](https://www.linkedin.com/in/brad-hankee/)
-- 💬 DEV Community: [@bhankee](https://dev.to/bhankee)
-- ✍️ Blog: [DEV.to](https://dev.to/bhankee) | [Medium](https://medium.com/@brad.hankee)
-- 🤝 Contributor to [Vets Who Code Prework](https://github.com/Vets-Who-Code/Prework)
-
----
+- DEV Community: [@bhankee](https://dev.to/bhankee)
+- Blog: [DEV.to](https://dev.to/bhankee) | [Medium](https://medium.com/@brad.hankee)
+- Contributor to [Vets Who Code Prework](https://github.com/Vets-Who-Code/Prework)
