@@ -8,7 +8,6 @@
 
 <div> 
   <h2>What I've Done... So far</h2>
-
   <div style="display: flex;  align-items: center; gap: 10px; flex-wrap: nowrap;">
     <h4 style="margin: 0;">Production Code - 7+ years</h4>
     <div style="display: inline-flex; gap: 5px;">
@@ -20,15 +19,7 @@
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>      
     </div>    
   </div>
-   <div style="display: flex; margin-top: 10px; align-items: center; gap: 10px; flex-wrap: nowrap;">
-    <h4 style="margin: 0;">Bootcamp Instruction -  2 years</h4>
-    <div style="display: inline-flex; gap: 5px;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>    
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>    
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>      
-    </div>    
-  </div>
-     <div style="display: flex;  align-items: center; gap: 10px; flex-wrap: nowrap;">
+  <div style="display: flex;  align-items: center; gap: 10px; flex-wrap: nowrap;">
     <h4 style="margin: 0;">Member and contributor at   <a href="https://github.com/Vets-Who-Code" target="_blank">Vets Who Code</a> - 7+ years</h4>
     <div style="display: inline-flex; gap: 5px;">
      <img src="https://avatars1.githubusercontent.com/u/18350560?s=200&v=4" alt="VWC Logo" width="75" />    
